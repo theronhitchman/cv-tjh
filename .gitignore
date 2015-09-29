@@ -1,0 +1,8 @@
+# LaTeX files
+*.aux
+*.out
+*.log
+
+
+# Mac OSX files
+.DS_Store
